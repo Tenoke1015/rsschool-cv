@@ -1,8 +1,8 @@
-#**Hulikava Katsiaryna**
+# **Hulikava Katsiaryna**
 
 ---
 
-##**Contacts**:
+## **Contacts**:
 
 1. Location: Belarus, Minsk;
 
@@ -12,11 +12,11 @@
 
 ---
 
-##**About me.** _I am a person who is constantly striving for something new. My goal now is to develop in the field of development. I think that this is, to some extent, a creative work that suits me in spirit. I have a high level of learning ability and stress tolerance, which will help me cope with difficult tasks._
+## **About me.** _I am a person who is constantly striving for something new. My goal now is to develop in the field of development. I think that this is, to some extent, a creative work that suits me in spirit. I have a high level of learning ability and stress tolerance, which will help me cope with difficult tasks._
 
 ---
 
-##**My skills:**
+## **My skills:**
 
 1. C++
 2. Photoshop
@@ -24,7 +24,7 @@
 
 ---
 
-##**Languages**
+## **Languages**
 
 1. Russian (native speaker)
 2. Belarusian (native speaker)
