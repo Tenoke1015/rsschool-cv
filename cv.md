@@ -4,11 +4,11 @@
 
 ##**Contacts**:
 
-+Location: Belarus, Minsk;
+1. Location: Belarus, Minsk;
 
-+Email: guffseer712@gmail.com;
+2. Email: guffseer712@gmail.com;
 
-+GitHub: Tenoke1015;
+3. GitHub: Tenoke1015;
 
 ---
 
@@ -17,7 +17,7 @@ _I am a person who is constantly striving for something new. My goal now is to d
 
 ---
 
-##**My skills:**##
+##**My skills:**
 
 1. C++
 2. Photoshop
@@ -25,7 +25,7 @@ _I am a person who is constantly striving for something new. My goal now is to d
 
 ---
 
-##**Languages**##
+##**Languages**
 
 1. Russian (native speaker)
 2. Belarusian (native speaker)
